@@ -1,0 +1,181 @@
+.i-phone13142-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.i-phone13142-i-phone13142 {
+  width: 100%;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  background-color: rgba(232, 232, 232, 1);
+}
+.i-phone13142-image51 {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 844px;
+  position: absolute;
+}
+.i-phone13142-text {
+  top: 169px;
+  left: 42px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Kongtext;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone13142-pixilframe053 {
+  top: 233px;
+  left: 36px;
+  width: 312px;
+  height: 52px;
+  position: absolute;
+}
+.i-phone13142-group15 {
+  top: 297px;
+  left: 125px;
+  width: 146px;
+  height: 37px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.i-phone13142-pixilframe052 {
+  top: 0px;
+  left: 0px;
+  width: 146px;
+  height: 37px;
+  position: absolute;
+}
+.i-phone13142-text02 {
+  top: 6px;
+  left: 35px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Kongtext;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone13142-vector {
+  top: 368px;
+  left: 263px;
+  width: 49px;
+  height: 41px;
+  position: absolute;
+}
+.i-phone13142-text04 {
+  top: 368px;
+  left: 81px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Monospace;
+  text-align: left;
+  font-family: Joystix;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone13142-line1 {
+  top: 454px;
+  left: 26px;
+  width: 347px;
+  height: 1px;
+  position: absolute;
+}
+.i-phone13142-group16 {
+  top: 535px;
+  left: 127px;
+  width: 146px;
+  height: 37px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.i-phone13142-pixilframe0521 {
+  top: 0px;
+  left: 0px;
+  width: 146px;
+  height: 37px;
+  position: absolute;
+}
+.i-phone13142-text06 {
+  top: 6px;
+  left: 25px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Kongtext;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone13142-group19 {
+  top: 42px;
+  left: 21px;
+  width: 347px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.i-phone13142-line2 {
+  top: 73px;
+  left: 0px;
+  width: 347px;
+  height: 1px;
+  opacity: 0.30;
+  position: absolute;
+}
+.i-phone13142-line11 {
+  top: 71px;
+  left: 0px;
+  width: 347px;
+  height: 1px;
+  position: absolute;
+}
+.i-phone13142-text08 {
+  top: 478px;
+  left: 107px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Monospace;
+  text-align: left;
+  font-family: Joystix;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
